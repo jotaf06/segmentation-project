@@ -1,0 +1,6 @@
+tensorflow>=2.13
+tensorflow-datasets
+jupyter
+numpy
+pillow
+matplotlib
